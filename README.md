@@ -27,11 +27,6 @@ Algorithmic design • Quantitative finance • Risk modeling • Data visualiza
 
 ---
 
-### 📊 GitHub Stats
-![Ryota's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryotahidaka&show_icons=true&theme=tokyonight)
-
----
-
 ### ✨ Fun Fact
 Outside of coding, I enjoy discussing new ideas, learning from others, and staying active through sports and social events.
 
